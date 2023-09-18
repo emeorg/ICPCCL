@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="Spanish.md">Español</a>
+  <a href="README-es.md">Español</a>
 </div>
 
 # ICPCCL
