@@ -22,7 +22,7 @@ During my participation in the ICPCCL, I faced challenges that pushed me to hone
   <details>
   <summary>Days</summary>
   
-  - [1st day](6to-ICPCCL-2023/1st-day)
+  - [1st day](6to ICPCCL 2023/1st day)
   - [2nd day](6to_ICPCCL_2023/2nd_day)
   - [3rd day](6to_ICPCCL_2023/3rd_day)
   - [4th day](6to_ICPCCL_2023/4th_day)
