@@ -18,7 +18,7 @@ During my participation in the ICPCCL, I faced challenges that pushed me to hone
 
 ### Years of Participation in ICPCCL
 
-- 6th ICPCCL
+- [6th ICPCCL](6to%20ICPCCL%202023)
   <details>
   <summary>Days</summary>
   
