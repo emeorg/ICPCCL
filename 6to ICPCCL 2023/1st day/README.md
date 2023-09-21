@@ -1,10 +1,8 @@
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <a href="../README.md">← Atras</a>
-  </div>
-  <div>
-    <a href="README-es.md">Español</a>
-  </div>
+<div align="left">
+  <a href="../README.md">← Atras</a>
+</div>
+<div align="right">
+  <a href="README-es.md">Español</a>
 </div>
 
 # 1st Day
