@@ -1,4 +1,4 @@
-<div>
+<div style="display: flex; justify-content: space-between;">
   <div align="left">
     <a href="../README.md">← Atras</a>
   </div>
