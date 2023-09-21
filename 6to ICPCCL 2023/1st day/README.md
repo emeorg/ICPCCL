@@ -1,8 +1,8 @@
 <div style="display: flex; justify-content: space-between;">
-  <div align="left">
+  <div>
     <a href="../README.md">← Atras</a>
   </div>
-  <div align="right">
+  <div>
     <a href="README-es.md">Español</a>
   </div>
 </div>
