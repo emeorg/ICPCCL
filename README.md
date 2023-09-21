@@ -22,15 +22,15 @@ During my participation in the ICPCCL, I faced challenges that pushed me to hone
   <details>
   <summary>Days</summary>
   
-  - [1st day](6to%20ICPCCL%202023/1st%20day)
-  - [2nd day](6to%20ICPCCL%202023/2nd%20day)
-  - [3rd day](6to%20ICPCCL%202023/3rd%20day)
-  - [4th day](6to%20ICPCCL%202023/4th%20day)
-  - [5th day](6to%20ICPCCL%202023/5th%20day)
-  - [6th day](6to%20ICPCCL%202023/6th%20day)
-  - [7th day](6to%20ICPCCL%202023/7th%20day)
-  - [8th day](6to%20ICPCCL%202023/8th%20day)
-  - [9th day](6to%20ICPCCL%202023/9th%20day)
+  - [1st day](6to%20ICPCCL%202023/1st%20day/README.md)
+  - [2nd day](6to%20ICPCCL%202023/2nd%20day/README.md)
+  - [3rd day](6to%20ICPCCL%202023/3rd%20day/README.md)
+  - [4th day](6to%20ICPCCL%202023/4th%20day/README.md)
+  - [5th day](6to%20ICPCCL%202023/5th%20day/README.md)
+  - [6th day](6to%20ICPCCL%202023/6th%20day/README.md)
+  - [7th day](6to%20ICPCCL%202023/7th%20day/README.md)
+  - [8th day](6to%20ICPCCL%202023/8th%20day/README.md)
+  - [9th day](6to%20ICPCCL%202023/9th%20day/README.md)
   
   </details>
   
