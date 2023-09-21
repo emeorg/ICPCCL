@@ -1,3 +1,6 @@
+<div align="left">
+  <a href="../README.md">← Atras</a>
+</div>
 <div align="right">
   <a href="README-es.md">Español</a>
 </div>
