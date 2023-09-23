@@ -19,20 +19,6 @@ Durante mi participación en el ICPCCL, me enfrenté a desafíos que me impulsar
 ### Años de Participación en ICPCCL
 
 - [6th ICPCCL](6to%20ICPCCL%202023/README-es.md)
-  <details>
-  <summary>Días</summary>
-  
-  - [1er día](6to%20ICPCCL%202023/1st%20day/README.md)
-  - [2do día](6to%20ICPCCL%202023/2nd%20day/README.md)
-  - [3er día](6to%20ICPCCL%202023/3rd%20day/README.md)
-  - [4to día](6to%20ICPCCL%202023/4th%20day/README.md)
-  - [5to día](6to%20ICPCCL%202023/5th%20day/README.md)
-  - [6to día](6to%20ICPCCL%202023/6th%20day/README.md)
-  - [7mo día](6to%20ICPCCL%202023/7th%20day/README.md)
-  - [8vo día](6to%20ICPCCL%202023/8th%20day/README.md)
-  - [9no día](6to%20ICPCCL%202023/9th%20day/README.md)
-  
-  </details>
   
 ## :email: Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [michelle.oliver.eme@gmail.com](mailto:michelle.oliver.eme@gmail.com).
