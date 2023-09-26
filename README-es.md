@@ -18,7 +18,7 @@ Durante mi participación en el ICPCCL, me enfrenté a desafíos que me impulsar
  
 ### Años de Participación en ICPCCL
 
-- [6th ICPCCL](6to%20ICPCCL%202023/README-es.md)
+- [6th ICPCCL](6to%20ICPCCL%202023/README-es.md) (2023)
   
 ## :email: Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [michelle.oliver.eme@gmail.com](mailto:michelle.oliver.eme@gmail.com).
