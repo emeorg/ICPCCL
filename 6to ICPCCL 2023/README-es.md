@@ -5,7 +5,7 @@
   <a href="README.md">English</a>
 </div>
 
-# 6to ICPCCL 2023
+# 6to ICPCCL
 ¡Bienvenido al repositorio del 6to ICPCCL 2023! Aquí encontrarás una colección de códigos en C++ correspondientes a los contests realizados durante el 6to ICPCCL. A continuación, se detallan los días y las materias de los contests:
 
 ## Días y Materias
