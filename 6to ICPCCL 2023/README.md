@@ -8,7 +8,7 @@
 # 6to ICPCCL
 Welcome to the 6th ICPCCL 2023 repository! Here you will find a collection of C++ codes corresponding to the contests held during the 6th ICPCCL. The days and subjects of the contests are listed below:
 
-## Días y Materias
+## Days and Subjects
 
 - **[Day 1:](1st%20day/README.md)** `Introduction to C++ and vector handling.`
 - **[Day 2:](2nd%20day/README.md)** `Nonlinear Data Structures.`
