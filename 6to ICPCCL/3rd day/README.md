@@ -1,8 +1,5 @@
 <div align="left">
-  <a href="../README.md">← Atras</a>
-</div>
-<div align="right">
-  <a href="README-es.md">Español</a>
+  <a href="../README.md">← Back</a>
 </div>
 
 # 3rd Day
